@@ -1,5 +1,5 @@
 def reverse_each_word(line)
-  statement = []
+  statement = line.split []
   line.reverse
 end
 line
