@@ -1,2 +1,3 @@
-line = []
-def reverse_each_word 
+line = ["Hello there, and how are you?"]
+def reverse_each_word(line)
+  line.
