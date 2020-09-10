@@ -3,4 +3,5 @@ def reverse_each_word(line)
   reversed_statment=line.collect do |line|
   line.reverse
 end
+end
 line
