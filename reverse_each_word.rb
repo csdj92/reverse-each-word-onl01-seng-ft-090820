@@ -1,7 +1,5 @@
-def reverse_each_word(line)
-  statement = line.split (" ")
-  reversed_statment=statement.collect do |line|
-  line.reverse
+def reverse_each_word(sentance)
+ sentance.split.map
 end
 end
 statement
