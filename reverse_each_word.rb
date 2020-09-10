@@ -4,5 +4,4 @@ def reverse_each_word(line)
   line.reverse
 end
 end
-puts statement
-end
+statement
